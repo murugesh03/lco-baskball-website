@@ -1,0 +1,15 @@
+.video-container video {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+  max-width: 100%;
+  max-height: -webkit-fit-content;
+  max-height: -moz-fit-content;
+  max-height: fit-content;
+  width: auto;
+  height: auto;
+  left: 0;
+  opacity: 0.7;
+}
+/*# sourceMappingURL=Background.css.map */
